@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  x_postion: 1
+  y_position: 1
+  max_x: 1
+  max_y: 1
+  facing: MyString
+
+two:
+  x_postion: 1
+  y_position: 1
+  max_x: 1
+  max_y: 1
+  facing: MyString
